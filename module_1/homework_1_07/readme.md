@@ -7,7 +7,7 @@
 
 ### Описание задания 
 
-Шаблон для выполнения задания доступен [по ссылке](https://docs.google.com/spreadsheets/d/15DQbkiIzsVXKNRR-ujcHItNjoIYg0t4ioQunFevZg2A/copy).
+Шаблон для выполнения задания доступен [по ссылке](https://docs.google.com/spreadsheets/d/1KIL0o4sfkhsdOzx-FW6vzTYoOLMIqDHyY9fmt6ew4tM/copy).
 
 1. Опишите контекст возникновения проекта. Ответьте на вопросы:
 * Зачем проект появился в работе?
