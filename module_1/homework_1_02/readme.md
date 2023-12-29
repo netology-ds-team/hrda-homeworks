@@ -35,15 +35,15 @@
 
 Если у вас нет датасета по закрытию вакансий из различных каналов, воспользуйтесь учебными датасетами:
 
-[Воронка найма](https://docs.google.com/spreadsheets/d/1CekL3Y5f-TGcNZ3oJcu1a5JzjBuklwmuJrNjMybZtog/copy)
+[Воронка найма](https://docs.google.com/spreadsheets/d/1gjIaJ47jbPRm4beanxuSo0tdCPNdGJe56TBpEcJMP_w/copy)
 
-[Стоимость подбора](https://docs.google.com/spreadsheets/d/1LUDghD25Mpj3_7fWnDjc5yjFq1ojHrqH_SD8wtDe6yk/copy)
+[Стоимость подбора](https://docs.google.com/spreadsheets/d/11hxneD4ks1a5WrDmG9roHd6TNIAY36g5RnhRMsSHSiU/edit#gid=662623516)
 
 #### Задание 2. Анализ текучести на испытательном сроке
 
 Проведите анализ текучести на испытательном сроке по основным подразделениям компании, сделайте анализ причин увольнения и выявить проблемные зоны.
 
-Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Отчет по текучести](https://docs.google.com/spreadsheets/d/1rOpUO0zau_8qXq36vOF3jE3u28NxQNeS/copy)
+Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Отчет по текучести](https://docs.google.com/spreadsheets/d/1Mh2TPwEReqMWFnvna8DxAO-62FgS9qblCHcw9tnLuuA/copy)
 
 **Результат выполненной работы:** прикрепите cсылку на Google-таблицу в личном кабинете.
 
