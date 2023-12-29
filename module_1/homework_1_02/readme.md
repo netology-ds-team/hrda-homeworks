@@ -11,7 +11,7 @@
 
 **Задание 1. Воронка подбора по выбранной вакансии**
 
-Для выполнения задания вам необходимо сделать копию [шаблона](https://docs.google.com/spreadsheets/d/1sOwWZeQMK8QWYjjkAUKSxJbSCPjgW8NsCkHG_mqXUWI/copy) и работать в ней. 
+Для выполнения задания вам необходимо сделать копию [шаблона](https://docs.google.com/spreadsheets/d/1-PVSm8eS-IVQSMx0PdbekvKEOZK7QjXgkEhwgN1jmyQ/copy) и работать в ней. 
 
 1. Опишите этапы воронки подбора в вашей компании
 2. Выберите одну вакансию, по которой вы будете строить воронку подбора
