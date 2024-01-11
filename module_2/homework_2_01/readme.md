@@ -6,7 +6,7 @@
 
 **Задание 1. Прогнозирование**
 
-> Задания выполняются [в шаблоне](https://docs.google.com/spreadsheets/d/1Jo_4--prXLPNkn92Py5FDX97hzD001QFXKCjhdzKywM/copy).
+> Задания выполняются [в шаблоне](https://docs.google.com/spreadsheets/d/1yC_6Zf2h3FIpquQcobtB6KCsoIGcpC8caL6ObQJBncA/copy).
 > Создайте копию шаблона и заполните его.
 
 1. Построить прогноз на 3 периода по исходным данным о динамике показателя.
