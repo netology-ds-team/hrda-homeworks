@@ -11,9 +11,9 @@
 * ФОТу
 * Затратам на персонал в разбивке на статьи
 
-Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://docs.google.com/spreadsheets/d/1RhL4xlWjTwLsDjH-RJvh2ftmsV5I6RGp/copy) 
+Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://docs.google.com/spreadsheets/d/1X2eBoC8kPu-NoaLzbRd0c8Ic0hZU5uzFF6uOFm0xv1A/copy) 
 
-Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://docs.google.com/spreadsheets/d/1yLOsOoBShGkHOFXnNGf3zO8UFDchAAVrf0N1xrTNqNY/copy)
+Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://docs.google.com/spreadsheets/d/1yLOsOoBShGkHOFXnNGf3zO8UFDchAAVrf0N1xrTNqNY/edit)
 
 Алгоритм расчётов:
 1. Рассчитайте %ФОТ от выручки. 
