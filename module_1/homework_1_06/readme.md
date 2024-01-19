@@ -6,7 +6,7 @@
 
 ### Описание задания
 
-Для выполнения задания сделайте копию [таблицы с исходными данными](https://docs.google.com/spreadsheets/d/1ygwfiFOXp_VRb4gNFhGRtOAg5pnfCHTRtetSlXnYcdM/copy). 
+Для выполнения задания сделайте копию [таблицы с исходными данными](https://docs.google.com/spreadsheets/d/1M0mfGQF-cCvatXIsLL-mCE9i3WgOhYkwPqKpNclDZ5U/copy). 
 
 Все результаты должны быть проставлены в ячейках, выделенных цветом. Для расчетов используйте соответствующие формулы из лекции, ручной ввод готовых значений не допускается. 
 
