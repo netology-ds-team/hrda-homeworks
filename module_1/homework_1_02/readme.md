@@ -37,7 +37,7 @@
 
 [Воронка найма](https://docs.google.com/spreadsheets/d/1gjIaJ47jbPRm4beanxuSo0tdCPNdGJe56TBpEcJMP_w/copy)
 
-[Стоимость подбора](https://docs.google.com/spreadsheets/d/11hxneD4ks1a5WrDmG9roHd6TNIAY36g5RnhRMsSHSiU/edit#gid=662623516)
+[Стоимость подбора](https://docs.google.com/spreadsheets/d/1qLMsAib5one8nBDK1-5exUdD53vnIxgDDOn22TetCFA/edit#gid=0)
 
 #### Задание 2. Анализ текучести на испытательном сроке
 
