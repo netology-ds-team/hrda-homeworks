@@ -13,7 +13,7 @@
 
 Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://docs.google.com/spreadsheets/d/1X2eBoC8kPu-NoaLzbRd0c8Ic0hZU5uzFF6uOFm0xv1A/copy) 
 
-Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://docs.google.com/spreadsheets/d/1yLOsOoBShGkHOFXnNGf3zO8UFDchAAVrf0N1xrTNqNY/edit)
+Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://docs.google.com/spreadsheets/d/1yLOsOoBShGkHOFXnNGf3zO8UFDchAAVrf0N1xrTNqNY/copy)
 
 Алгоритм расчётов:
 1. Рассчитайте %ФОТ от выручки. 
