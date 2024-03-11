@@ -11,7 +11,7 @@
 * ФОТу
 * Затратам на персонал в разбивке на статьи
 
-Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://docs.google.com/spreadsheets/d/1X2eBoC8kPu-NoaLzbRd0c8Ic0hZU5uzFF6uOFm0xv1A/copy) 
+Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://u.netology.ru/backend/uploads/lms/content_assets/file/5351/%D0%94%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82_P_L_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.xlsx) 
 
 Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://docs.google.com/spreadsheets/d/1yLOsOoBShGkHOFXnNGf3zO8UFDchAAVrf0N1xrTNqNY/copy)
 
