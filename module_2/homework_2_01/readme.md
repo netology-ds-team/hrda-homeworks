@@ -6,7 +6,7 @@
 
 **Задание 1. Прогнозирование**
 
-> Задания выполняются [в шаблоне](https://docs.google.com/spreadsheets/d/1yC_6Zf2h3FIpquQcobtB6KCsoIGcpC8caL6ObQJBncA/copy).
+> Задания выполняются [в шаблоне](https://u.netology.ru/backend/uploads/lms/content_assets/file/210/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%94%D0%97_%D0%A4%D0%98%D0%9E_HRDA-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B0_%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8.xlsx).
 > Создайте копию шаблона и заполните его.
 
 1. Построить прогноз на 3 периода по исходным данным о динамике показателя.
