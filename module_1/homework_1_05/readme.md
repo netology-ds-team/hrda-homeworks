@@ -13,7 +13,7 @@
 
 Если у вас нет данных  по вашей организации, то вы можете воспользоваться учебным датасетом: [Финансовые показатели](https://u.netology.ru/backend/uploads/lms/content_assets/file/5351/%D0%94%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82_P_L_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.xlsx) 
 
-Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://u.netology.ru/backend/uploads/lms/content_assets/file/5351/%D0%94%D0%B0%D1%82%D0%B0%D1%81%D0%B5%D1%82_P_L_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.xlsx)
+Вам необходимо сделать расчеты за 1-ый квартал [в этом шаблоне](https://u.netology.ru/backend/uploads/lms/content_assets/file/7938/%D0%94%D0%97_%D0%A4%D0%98%D0%9E_HRDA-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B0_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.xlsx)
 
 Алгоритм расчётов:
 1. Рассчитайте %ФОТ от выручки. 
